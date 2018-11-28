@@ -1,0 +1,82 @@
+.button {
+	display: block;
+	width: 115px;
+	height: 35px;
+	background: #cc9900;
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+.button1 {
+	display: block;
+	width: 115px;
+	height: 35px;
+	background: #003366;
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	position: absolute;
+	top: 51px;
+	left: 10px;
+}
+.button2 {
+	display: block;
+	width: 115px;
+	height: 35px;
+	background: #800000;
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	position: absolute;
+	top: 93px;
+    left: 10px;
+}
+.search_form
+{
+	 text-align: center;
+	 position:absolute;
+     top:400px;
+     right:500px;
+}
+
+#search-text {
+     margin-bottom: 10px;
+}
+.form-control {
+    margin-bottom: 10px;
+}
+#cardno{
+	position:absolute;
+	top: 5px;
+    width: 20%;
+}
+#return-btn{
+	position:absolute;
+	background: #003366;
+	top: 45px;
+	width: 16%;
+}
+#fine-text{
+	position: absolute;
+    top: 41px;
+    width: 20%;
+}	
+#get-btn{
+	position: absolute;
+    top: 80px;
+    width: 8%;
+}
+#update-btn{
+	position: absolute;
+    top: 2px;
+    width: 8%;
+}
